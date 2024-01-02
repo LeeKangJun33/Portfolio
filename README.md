@@ -17,4 +17,9 @@
 > 활용기술: Java 11,Spring boot,Thymeleaf,Spring boot Security,Spring boot JPA,MySQL,Maven
 ----------------------------------------------
 
-#2. [Weather
+#2. [날씨어때](https://github.com/weather-eottae)
+>[백엔드 깃허브](https://github.com/LeeKangJun33/BE-migration)
+> 팀 프로젝트 포트폴리오(날씨에 따라 옷추천 프로젝트)<br>
+> 개발 기간 : 2023.10.23~ 2023.12.2
+> 활용기술 : Java 11,Spring boot,Spring boot Security,Spring boot JPA,MySQL,Gradle
+> 맡은 역할 : 메인 페이지 관리 및 메인API 연동
