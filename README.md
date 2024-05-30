@@ -25,14 +25,14 @@
 > 맡은 역할 : 메인 페이지 관리 및 메인API 연동
 
 ----------------------------------------------
-#1.[Bank](https://github.com/LeeKangJun33/Bank)
+#3.[Bank](https://github.com/LeeKangJun33/Bank)
 > 개인용 포트폴리오(은행 입출금 프로젝트)<br>
 > 개발기간: 2024.02.20~ 2024.03.20<br/>
 > 활용기술:JAVA17 & Spring Boot 3.2.3 & MySQL & Spring Security & Docker & JUnit4
 > 프로젝트 소개 : 입출금 관리, 계좌 생성 , 계좌&거래내역 조회 
 ----------------------------------------------
 
-#1.[MovieRecommendation](https://github.com/LeeKangJun33/MovieRecommendation)
+#4.[MovieRecommendation](https://github.com/LeeKangJun33/MovieRecommendation)
 > 개인용 포트폴리오(영화 추천 프로젝트)<br>
 > 개발기간: 2024.05.1~ 2024.05.30<br/>
 > 활용기술:JAVA17 & Spring Boot 3.2.3 & MySQL & Spring Security & Docker & MongoDB & Kubernetes & Kafka & Gradle & Redies
